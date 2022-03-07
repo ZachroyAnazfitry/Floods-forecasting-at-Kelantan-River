@@ -17,5 +17,6 @@ The Drainage and Irrigation Department of Malaysia (DID) or JPS located six tele
 
 ## References
 1. https://towardsdatascience.com/a-short-tutorial-on-fuzzy-time-series-part-ii-with-an-case-study-on-solar-energy-bda362ecca6d
-2. Time Series Analysis with Python 3.x written by Karen Yang, published by Packt
-3. Machine Learning for Time Series with Python written by Ben Auffarth
+2. https://pyfts.github.io/pyFTS/build/html/index.html
+3. Time Series Analysis with Python 3.x written by Karen Yang, published by Packt
+4. Machine Learning for Time Series with Python written by Ben Auffarth
