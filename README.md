@@ -13,7 +13,8 @@ The Drainage and Irrigation Department of Malaysia (DID) or JPS located six tele
 2. Numpy
 3. pandas
 4. matplotlib
-5. pyFTS packages
+5. statsmodels
+6. pyFTS packages
 
 ## References
 1. https://towardsdatascience.com/a-short-tutorial-on-fuzzy-time-series-part-ii-with-an-case-study-on-solar-energy-bda362ecca6d
