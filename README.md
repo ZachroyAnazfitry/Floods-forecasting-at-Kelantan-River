@@ -4,11 +4,11 @@ Machine learning models for floods forecasting using daily water level data at K
 ## Project Overview
 The effectiveness of water resources management especially for forecasting can be achieved through enhanced streamflow forecasting models. Streamflow forecasting model is an extremely important tool, used to understand multi-events that occur in hyrological processess. Some of its usefulness are to assess floods, manage irrigation water during drought season and  to identify river water potential.
 
-The objective of this study is to develop a river forecasting model that will forecast daily river level data at JPS station located at Jeti Kastam, Kota Bharu. The proposed machine learning technique used in this study is **Autoregression model, Decision Tree and Fuzzy Set Theory**. 
+The objective of this study is to develop a river forecasting model that will forecast **daily river level data at DID/JPS station **located at Jeti Kastam, Kota Bharu. The proposed machine learning technique used in this study is **Autoregression model, Decision Tree and Fuzzy Set Theory**. 
  
 The Drainage and Irrigation Department of Malaysia (DID) or JPS located six telemetric water level stations and four rainfall stations in the Kelantan River basin. Kota Bharu station was identified at the upstream of the Kelantan River and chosen for studies. The daily water level data for a period of 10 years was obtained from this department for academic/research purposes.  
 
-## I written the code in Python by applying all the libraries/packages as stated below:
+### I written the code in Python by applying all the libraries/packages as stated below:
 1. Jupyter Notebook
 2. Numpy
 3. pandas
