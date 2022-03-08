@@ -8,7 +8,7 @@ The Drainage and Irrigation Department of Malaysia (DID) or JPS located six tele
 
 The objective of this study is to develop a river forecasting model that will forecast **daily river level data at DID/JPS telemetry station** located along Sungai Kelantan, Kuala Krai. The proposed machine learning technique used in this study is **Autoregressive Moving Average(ARMA) model, Decision Tree and Fuzzy Set Theory**.
 
-### I written the code in Python by applying all the libraries/packages as stated below:
+I written the code in Python by applying all the libraries/packages as stated below:
 1. Jupyter Notebook
 2. Numpy
 3. pandas
